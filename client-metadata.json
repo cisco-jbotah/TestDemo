@@ -1,0 +1,7 @@
+{
+"client_name": "Testapp",
+"client_id": "https://jbotah.github.io/client-metadata/client-metadata.json",
+"redirect_uris": [
+"http://localhost:8000/oauth21dcr"
+]
+}
